@@ -1,5 +1,5 @@
 {
-  "name": "ar-mirror-flask-app",
+  "name": "ar-mirror-backend",
   "version": "1.0.0",
   "engines": {
     "npm": "9.6.6",
